@@ -1,0 +1,5 @@
+axiomvenv/
+__pycache__/
+*.pyc
+.env
+uploads/
